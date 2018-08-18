@@ -21,6 +21,9 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MT4Functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="MT4Bridge.def">
@@ -41,6 +44,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MT4Bridge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MT4Functions.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
